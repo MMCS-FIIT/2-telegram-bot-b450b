@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenje\\source\\repos\\Homework6\\2-telegram-bot-b450b\\Tgmain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{207A05B2-48C9-49D4-A58E-300265C8141B}|Tgmain\\Tgmain.csproj|c:\\users\\kenje\\source\\repos\\homework6\\2-telegram-bot-b450b\\tgmain\\tgmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207A05B2-48C9-49D4-A58E-300265C8141B}|Tgmain\\Tgmain.csproj|solutionrelative:tgmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenje\\source\\repos\\Homework6\\2-telegram-bot-b450b\\Tgmain\\Tgmain\\Program.cs",
+              "RelativeDocumentMoniker": "Tgmain\\Program.cs",
+              "ToolTip": "C:\\Users\\kenje\\source\\repos\\Homework6\\2-telegram-bot-b450b\\Tgmain\\Tgmain\\Program.cs",
+              "RelativeToolTip": "Tgmain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:15:56.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
